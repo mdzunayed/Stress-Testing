@@ -12,7 +12,6 @@ void solve() {
 
 int main()
 { 
-   faster;
    int test=1;
    // cin>>test;
    int i=1;
